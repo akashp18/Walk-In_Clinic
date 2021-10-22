@@ -1,1 +1,2 @@
-# Walk-In_Clinic
+# WalkInClinic
+Python + SQLite Project
